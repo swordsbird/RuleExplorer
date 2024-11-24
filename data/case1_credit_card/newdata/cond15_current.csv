@@ -1,0 +1,16 @@
+Gender,Age,Debt,Married,BankCustomer,Job,Ethnicity,YearsEmployed,PriorDefault,Employed,CreditScore,DriversLicense,Citizen,ZipCode,Income,Approved
+1,15.17,19.587,1,0,1,White,6.084,0,1,0,0,ByBirth,550,0,0
+1,48.52,0.0,1,0,5,White,4.711,1,0,0,0,ByBirth,136,0,0
+1,28.93,2.641,1,1,6,White,5.681,0,0,0,0,ByBirth,80,0,0
+1,18.86,2.646,1,0,1,White,5.66,0,1,0,0,ByBirth,80,0,0
+0,56.82,3.849,1,1,5,Latino,17.329,1,1,2,1,ByBirth,0,0,1
+1,21.26,2.986,1,1,9,White,5.591,1,0,0,1,ByBirth,0,0,0
+1,25.93,2.042,1,1,9,White,5.882,0,0,0,0,ByBirth,280,0,0
+1,26.07,2.168,1,1,13,Latino,9.822,1,0,2,1,ByBirth,0,0,1
+1,41.5,1.465,1,1,9,White,8.472,1,1,0,1,ByBirth,20,0,1
+1,23.9,1.002,1,0,1,White,4.964,1,0,0,0,ByBirth,160,0,0
+1,36.79,1.497,1,1,13,Asian,4.484,1,1,1,0,ByBirth,240,0,1
+0,25.12,1.862,1,0,0,Asian,4.18,0,0,3,1,ByBirth,0,0,0
+1,66.06,1.432,1,1,13,Latino,5.86,1,1,0,1,ByBirth,70,0,1
+0,24.33,15.596,1,0,8,White,7.461,1,1,15,0,ByBirth,0,0,1
+1,15.17,2.766,1,1,4,White,5.106,0,0,0,0,ByBirth,480,0,0
